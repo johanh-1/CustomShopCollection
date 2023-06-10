@@ -17,6 +17,12 @@ A continuación se muestran imágenes de como son las hojas ***Inventario*** y *
 
 ### Video 
 
+
+
+https://github.com/johanh-1/CustomShopCollection/assets/136139101/470e0f86-cc0d-44e3-98bc-da8e71150576
+
+
+
 <img src="https://github.com/johanh-1/CustomShopCollection/assets/136139101/a48115c4-f007-4727-b3a5-c460dee2e5ae" width="1200" height="400" />
 
 ![rec_customshopEsp](https://github.com/johanh-1/CustomShopCollection/assets/136139101/a48115c4-f007-4727-b3a5-c460dee2e5ae)
